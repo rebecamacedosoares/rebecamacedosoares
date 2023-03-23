@@ -1,4 +1,4 @@
-### Oi, eu sou a Rebeca 👋
+### Olá, eu sou a Rebeca 👋
 
 <!--
 - 🌱 I’m currently learning Python/Java
