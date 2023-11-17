@@ -18,12 +18,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebecamacedosoares&show_icons=true&theme=cobalt" />
 </a>
-
+-->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamacedosoares&show_icons=true&theme=cobalt&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamacedosoares&layout=compact&langs_count=7&theme=cobalt"/>
 </a>
 
-
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Rebeca-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Rebeca-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
