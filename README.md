@@ -6,7 +6,7 @@
 
 ### Hi, I'm Rebeca! 👋
 
-<p>I am a Software Developer and a student of Systems Analysis and Development. My main focus is on backend development with <strong>Python</strong>, building a wide range of solutions with solid knowledge in APIs by leveraging <strong>Django</strong> and <strong>FastAPI</strong>. I’m currently enhancing my skills in <strong>React.js</strong> for frontend development and exploring automations with <strong>n8n</strong>.</p>
+<p>I am a Software Developer and a student of Information Systems. My main focus is on backend development with <strong>Python</strong>, building a wide range of solutions with solid knowledge in APIs by leveraging <strong>Django</strong> and <strong>FastAPI</strong>. I’m currently enhancing my skills in <strong>React.js</strong> for frontend development and exploring automations with <strong>n8n</strong>.</p>
 
 ---
 
