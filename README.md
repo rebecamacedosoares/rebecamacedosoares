@@ -58,7 +58,7 @@
 ### 📊 Top Languages
 
 <a href="https://github.com/rebecamacedosoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamacedosoares&layout=compact&langs_count=7&theme=dracula" title="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamacedosoares&layout=compact&langs_count=7&theme=dracula&count_private=true&cache_seconds=86400" title="Linguagens Mais Usadas"/>
 </a>
 
 ---
